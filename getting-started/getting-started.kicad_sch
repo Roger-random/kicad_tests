@@ -1,5 +1,20 @@
 (kicad_sch (version 20230121) (generator eeschema)
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (uuid 04d92c8b-6933-4953-a2b1-5fe8e7cc58f4)
+
+  (paper "USLetter")
+
+  (title_block
+    (title "Getting Started in KiCad 7.0")
+    (date "2023-09-22")
+    (rev "1")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
