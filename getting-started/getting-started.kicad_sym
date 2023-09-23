@@ -6,7 +6,7 @@
     (property "Value" "M2011S3A1W03" (at 0 -3.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 0 0 0)
+    (property "Footprint" "getting-started:Switch_Toggle_SPST_NKK_M2011S3A1x03" (at 0 -7.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 0 0)
