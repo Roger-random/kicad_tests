@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "aelh")(type "KiCad")(uri "${KIPRJMOD}/aelh.kicad_sym")(options "")(descr ""))
+)
